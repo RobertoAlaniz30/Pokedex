@@ -1,3 +1,67 @@
+# **<div align="center">🌟☄️------POKEBIBLE------🪐🌠</div>**  
+  
+
+### <div align="center">Are you searching for your the best pokemon tho become a real master? Check out PokeBibble, a SPA build with react.js and redux to see the abilities of each pokemon of the first generation.😼</div>  
+  
+
+<div align="center">
+<img src="https://i.ibb.co/27xS1Cs/Poke-Bible1.png" align="center" style="width: 70%" />
+</div>  
+  
+
+-----  
+  
+
+<div align="center">
+<img src="https://i.ibb.co/xMWmFVS/Poke-Bible2.png" align="center" height="" width="" />
+</div>  
+  
+
+<br/>  
+
+
+## Project Stack
+ 
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" />  
+</div>
+
+<br/>  
+
+## Connect with me and see the project
+<div align="center">
+<a href="https://github.com/https://github.com/RobertoAlaniz30?tab=repositories" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/roberto-carlos-alaniz-márquez-6163541bb" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/https://gallant-yalow-9028f8.netlify.app/" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+
+----
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
